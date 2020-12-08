@@ -1,1 +1,1 @@
-module.exports = require('./build/Release/objhash').ident;
+module.exports = require('./build/Release/objhash').objhash;
